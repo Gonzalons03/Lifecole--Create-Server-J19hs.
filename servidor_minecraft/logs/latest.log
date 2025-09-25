@@ -163,3 +163,18 @@
 [25Sep2025 18:13:31.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Set the time to 25000]
 [25Sep2025 18:13:43.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Gamerule doDaylightCycle is now set to: false]
 [25Sep2025 18:13:47.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Gamerule doWeatherCycle is now set to: false]
+[25Sep2025 18:20:37.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GNS_03 lost connection: Disconnected
+[25Sep2025 18:20:37.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GNS_03 left the game
+[25Sep2025 18:20:46.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GNS_03[/127.88.59.30:42473] logged in with entity id 3109 at (75.61965411001964, 68.9375, 114.40024045965505)
+[25Sep2025 18:20:46.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GNS_03 joined the game
+[25Sep2025 18:21:28.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Applied effect Speed to 313 targets]
+[25Sep2025 18:22:50.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GNS_03 lost connection: Disconnected
+[25Sep2025 18:22:50.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GNS_03 left the game
+[25Sep2025 18:22:54.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GNS_03[/127.88.59.30:56323] logged in with entity id 3695 at (94.54742977767096, 71.0, 107.5123681873315)
+[25Sep2025 18:22:54.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GNS_03 joined the game
+[25Sep2025 18:23:09.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GNS_03 lost connection: Disconnected
+[25Sep2025 18:23:09.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GNS_03 left the game
+[25Sep2025 18:23:15.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GNS_03[/127.88.59.30:54643] logged in with entity id 3797 at (87.40141765448003, 69.0, 106.77378274830163)
+[25Sep2025 18:23:15.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GNS_03 joined the game
+[25Sep2025 18:23:32.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GNS_03 lost connection: Disconnected
+[25Sep2025 18:23:32.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GNS_03 left the game
