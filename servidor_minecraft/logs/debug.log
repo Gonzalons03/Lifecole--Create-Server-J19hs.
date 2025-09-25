@@ -655,3 +655,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [25Sep2025 17:59:00.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Set own game mode to Creative Mode]
 [25Sep2025 18:02:57.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Sep2025 18:02:57.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Sep2025 18:07:57.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Sep2025 18:07:57.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Sep2025 18:12:57.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Sep2025 18:12:57.592] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Sep2025 18:13:31.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Set the time to 25000]
+[25Sep2025 18:13:43.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Gamerule doDaylightCycle is now set to: false]
+[25Sep2025 18:13:47.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Gamerule doWeatherCycle is now set to: false]

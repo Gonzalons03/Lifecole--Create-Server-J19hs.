@@ -160,3 +160,6 @@
 [25Sep2025 17:58:14.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GNS_03 joined the game
 [25Sep2025 17:58:58.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made GNS_03 a server operator
 [25Sep2025 17:59:00.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Set own game mode to Creative Mode]
+[25Sep2025 18:13:31.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Set the time to 25000]
+[25Sep2025 18:13:43.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Gamerule doDaylightCycle is now set to: false]
+[25Sep2025 18:13:47.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GNS_03: Gamerule doWeatherCycle is now set to: false]
